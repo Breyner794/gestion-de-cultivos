@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Variables de entorno
+.env
+.env.local
+
+# Node
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Reportes exportados
+*.xlsx
+*.csv
+!context/**
+
+context_project/
